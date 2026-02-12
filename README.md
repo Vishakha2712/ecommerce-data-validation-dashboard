@@ -29,11 +29,11 @@ Build an interactive business dashboard
 
 🔹 Data Validation Approach
 
-✔ Recalculated final prices using SQL
-✔ Compared stored vs calculated discount values
-✔ Applied tolerance logic to handle rounding differences
-✔ Identified mismatched records
-✔ Created validation views for reusability
+ Recalculated final prices using SQL
+ Compared stored vs calculated discount values
+ Applied tolerance logic to handle rounding differences
+ Identified mismatched records
+ Created validation views for reusability
 
 🔹 Power BI Dashboard Features
 
